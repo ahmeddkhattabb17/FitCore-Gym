@@ -9,7 +9,7 @@ A modern responsive fitness website created to present a gym brand, its services
 - Membership plans
 - Testimonials
 - Contact section
-- Responsive desktop/tablet/mobile layout
+- Responsive desktop, tablet, and mobile layout
 
 ## 🛠️ Tech Stack
 - HTML5
@@ -21,7 +21,7 @@ A modern responsive fitness website created to present a gym brand, its services
 Open `index.html` in a browser or serve the folder with a static web server.
 
 ## 🎯 Portfolio Focus
-FitCore demonstrates semantic HTML, responsive CSS, layout composition, typography, and business landing-page design.
+Semantic HTML, responsive CSS, layout composition, typography, and business landing-page design.
 
 ## 👤 Author
 Ahmed Khattab — Frontend Developer
