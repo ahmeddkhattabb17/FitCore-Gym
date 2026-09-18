@@ -1,7 +1,27 @@
-FitCore Gym is a responsive gym website designed to showcase a modern fitness brand. Built entirely with HTML5 and CSS3, the project emphasizes clean design, responsive layouts, and an intuitive user experience. The website includes sections for the hero banner, services, trainers, membership plans, testimonials, and contact information. This project demonstrates best practices in semantic HTML, modern CSS techniques, and responsive web design, making it suitable for desktops, tablets, and mobile devices.
+# FitCore Gym
 
-Technologies Used
-HTML5
-CSS3
-Responsive Design
-Flexbox
+A modern responsive fitness website created to present a gym brand, its services, trainers, membership plans, testimonials, and contact information.
+
+## ✨ Features
+- Fitness-focused hero section
+- Services showcase
+- Trainer section
+- Membership plans
+- Testimonials
+- Contact section
+- Responsive desktop/tablet/mobile layout
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- Flexbox
+- Responsive Web Design
+
+## 🚀 Run Locally
+Open `index.html` in a browser or serve the folder with a static web server.
+
+## 🎯 Portfolio Focus
+FitCore demonstrates semantic HTML, responsive CSS, layout composition, typography, and business landing-page design.
+
+## 👤 Author
+Ahmed Khattab — Frontend Developer
